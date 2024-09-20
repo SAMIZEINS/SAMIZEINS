@@ -3,7 +3,7 @@
 </div>
 <img src="https://i.imgur.com/wRJYPJB.jpeg">
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/SAMIZEINS?sub_confirmation=1)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/@samizeins?style=social)](https://youtube.com/SAMIZEINS?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/sami_zeins?style=social)](https://www.twitch.tv/sami_zeins)
 [![GitHub followers](https://img.shields.io/github/followers/SAMIZEINS?style=social)](https://github.com/SAMIZEINS)
 ![Discord Shield](https://discord.com/api/guilds/744624518722617436/widget.png?style=shield)
