@@ -5,7 +5,7 @@
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/SAMIZEINS?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/sami_zeins)
-[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/SAMIZEINS)
+[![GitHub followers](https://img.shields.io/github/followers/SAMIZEINS?style=social)](https://github.com/SAMIZEINS)
 ![Discord Shield](https://discordapp.com/api/guilds/744624518722617436/widget.png?style=shield)
 
 ## Sobre mi
@@ -16,7 +16,7 @@
 <br>
 
 
-### ⚙️ &nbsp;GitHub Analytics
+### GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/SAMIZEINS">
