@@ -1,16 +1,26 @@
-## Hi there 👋
+<div align="center">
+<h1 align="center">Hola, soy Samuel 👋</h1>
+</div>
+<img src="https://imgur.com/a/8D1y7wq">
 
-<!--
-**SAMIZEINS/SAMIZEINS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/SAMIZEINS?sub_confirmation=1)
+[![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/sami_zeins)
+[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/SAMIZEINS)
+![Discord Shield](https://discordapp.com/api/guilds/744624518722617436/widget.png?style=shield)
 
-Here are some ideas to get you started:
+## Sobre mi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✏️ Estoy dispuesto para aprender cualquier lenguaje.
+- 🐍 Mi lenguaje favorito es Python.
+- 🎮 Me gustan mucho los Videojuegos.
+<br>
+
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/SAMIZEINS">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SAMIZEINS&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SAMIZEINS&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
