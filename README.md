@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Samuel 👋</h1>
 </div>
-<img src="https://imgur.com/a/8D1y7wq">
+<img src="https://i.imgur.com/wRJYPJB.jpeg">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/SAMIZEINS?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/sami_zeins?style=social)](https://www.twitch.tv/sami_zeins)
