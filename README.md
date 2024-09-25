@@ -12,7 +12,7 @@
 ## Sobre mi
 
 - ✏️ Estoy dispuesto para aprender cualquier lenguaje.
-- 🐍 Mi lenguaje favorito es Python.
+- 🐍 Se un poco de Python, JavaScript, HTML, C++, CSS y GO.
 - 🎮 Me gustan mucho los Videojuegos.
 <br>
 
