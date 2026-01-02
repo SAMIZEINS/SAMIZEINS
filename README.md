@@ -9,11 +9,14 @@
 ![Discord Shield](https://discord.com/api/guilds/744624518722617436/widget.png?style=shield)
 
 
-## Sobre mi
+## 👋 Sobre mí
 
-- ✏️ Estoy dispuesto para aprender cualquier lenguaje.
-- 🐍 Se un poco de Python, JavaScript, HTML, C++, CSS y GO.
-- 🎮 Me gustan mucho los Videojuegos.
+Soy **Ingeniero en Sistemas y desarrollador Frontend Junior**, con experiencia en la construcción de interfaces web modernas y responsivas usando **React, TypeScript y Next.js**, aplicando estilos con **Tailwind CSS**.
+
+He trabajado en proyectos bajo metodologías ágiles, utilizando herramientas como **Git, GitHub, Jira y Miro**, y me enfoco en escribir código limpio, reutilizable y orientado a la experiencia de usuario.
+
+🚀 Actualmente busco oportunidades como **Frontend Developer Junior** para seguir creciendo profesionalmente.
+
 <br>
 
 
